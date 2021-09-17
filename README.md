@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HusseinDStudy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Hussein
+- 👀 I’m interested in github usage
+- 🌱 I’m currently learning Github...etc
+- 💞️ I’m looking to collaborate on Nothing yet only want to learn
+- 📫 How to reach me commment in github or do a pull request
 
 <!---
 HusseinDStudy/HusseinDStudy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
