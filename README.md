@@ -36,3 +36,8 @@ You can click the Preview link to take a look at your changes.
 - Can also be found on misskey
 - Can also find my music lists on funkwhale
 - Can also find my Projects on hubzilla soon
+# ---- WHAT I USE ----
+## Tools I Like and Use regulary
+- For Apps Installation I use [Flathub](https://flathub.org/home) and avoid using Snapcraft sinc it creates a temporary device each time you launch an app
+- I love Rss  Feeds: And prefer to use [Feedly](https://feedly.com/) Online and [Fluent_Reader](https://hyliu.me/fluent-reader/) Offline :smile:
+- For python packages I use [Pip](https://pypi.org/) mostly and sometime other tools if Needed
