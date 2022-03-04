@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 # ---- WHAT I DO ----
 ## I do many activitys: :smile:
 - On my Github I publish all my programming projects 
-- On my YouTube/Odesity channels I am creating content to present some of my projects for people who are interested by new ideas
+- On my [YouTube](https://www.youtube.com/channel/UCO4Xq1--MrkRjvmMs1MBCEA)/[Odysee]() channels I am creating content to present some of my projects for people who are interested by new ideas
 - On my Twitter I look for moments, social events and individuals news that are worth it.
 - On my Facebook I present subjects and problems that i stand For or Against.
 - On my TikTok I present some quotas I Like and agree with.
