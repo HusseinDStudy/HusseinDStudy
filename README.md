@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 ## I do many activitys: :smile:
 - On [My Github :wink:](https://github.com/HusseinDStudy) & [My GitLab ](https://gitlab.com/HusseinDStudy) I publish all my programming projects 
 - On my [YouTube](https://www.youtube.com/channel/UCO4Xq1--MrkRjvmMs1MBCEA)/[Odysee](https://odysee.com/@husseindstudy) channels I am creating content to present some of my projects for people who are interested by new ideas
-- On my [Twitter]() I look for moments, social events and individuals news that are worth it.
+- On my [Twitter](https://twitter.com/HusseinDStudy) I look for moments, social events and individuals news that are worth it.
 - On my Facebook I present subjects and problems that i stand For or Against.
 - On my TikTok I present some quotas I Like and agree with.
 - On my Pintrest and Instagram i put some images of natures beautys
