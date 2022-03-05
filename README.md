@@ -12,13 +12,11 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on Nothing yet only want to learn
 - A Web Developper and Student in BTS SIO SLAM on :fr:
 - I am passionate about learining new ways to use Python and New languages in the world of Tech and i love finding new ways to be more efficient as a Programmer.
-- [My Github :wink:](https://github.com/HusseinDStudy)
-- [My GitLab ](https://gitlab.com/HusseinDStudy)
-- [My WebSite In  :fr:  ](https://husseindajani.wordpress.com/)    Which in the future will be Outside Wordpress In another platform
+- [My WebSite In  :fr:  ](https://husseindajani.wordpress.com/)    Which for now is used for my tests and would be rebuild in the future
 
 # ---- WHAT I DO ----
 ## I do many activitys: :smile:
-- On my Github I publish all my programming projects 
+- On [My Github :wink:](https://github.com/HusseinDStudy) & [My GitLab ](https://gitlab.com/HusseinDStudy) I publish all my programming projects 
 - On my [YouTube](https://www.youtube.com/channel/UCO4Xq1--MrkRjvmMs1MBCEA)/[Odysee](https://odysee.com/@husseindstudy) channels I am creating content to present some of my projects for people who are interested by new ideas
 - On my Twitter I look for moments, social events and individuals news that are worth it.
 - On my Facebook I present subjects and problems that i stand For or Against.
