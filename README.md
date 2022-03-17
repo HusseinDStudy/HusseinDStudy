@@ -40,3 +40,6 @@ You can click the Preview link to take a look at your changes.
 - For Apps Installation I use [Flathub](https://flathub.org/home) and avoid using Snapcraft sinc it creates a temporary device each time you launch an app
 - I love Rss  Feeds: And prefer to use [Fluent_Reader](https://hyliu.me/fluent-reader/) for my feeds :smile:
 - For python packages I use [Pip](https://pypi.org/) mostly and sometime other tools if Needed
+
+- I also love [The SecureDrop Project](https://securedrop.org/) in [Qubes Is](https://www.qubes-os.org)
+- I use [Nextcloud](https://nextcloud.com) Servers for clouding
