@@ -23,13 +23,13 @@ You can click the Preview link to take a look at your changes.
 - On my [TikTok](https://www.tiktok.com/@husseindstudy) I present some quotas I Like and agree with.
 - On my [Pintrest](https://www.pinterest.fr/husseindajanistudy/_saved/) and [Instagram](https://www.instagram.com/husseindstudy/) i put some images of natures beautys
 - 📫On my [Reddit](https://www.reddit.com/user/HusseinDStudy/) I help and comment 
-- On my Slack guess what it's for work :funy:
-- On my Linkedin I hunt for Jobs
-- On my Spotify you find some songs i like
+- On my [Slack](#) guess what it's for work :funy:
+- On my [Linkedin](https://www.linkedin.com/in/hussein-dajani-3172aa197/) I hunt for Jobs
+- On my [Spotify](https://open.spotify.com/user/31vgx6zi236kqw5yo76t56a3acza) you find some songs i like
 - On my Snaptchat stuff happen
 ## I am also an advocat for the [Fediverse](https://fediverse.party/) 
 ## Thus I also:
-- Publish my videos in PeerTube
+- Publish my videos in a [PeerTube Instance](https://joinpeertube.org/instances#instances-list) called [Iriseden](https://peertube.iriseden.eu/) [HusseinDStudy](https://peertube.iriseden.eu/c/husseindstudy/videos)
 - Publish photos of nature in Pixelfed
 - Can be Contacted in Pleroma.Social, Friendi.Ca, Gnusocial.Rocks, Mastodon, Diasporafoundation
 - Can also be found on misskey
