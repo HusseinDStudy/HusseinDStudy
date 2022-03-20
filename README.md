@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 - On my [Face](https://www.facebook.com/profile.php?id=100078805149199)[book](https://www.facebook.com/people/Hussein-D-Study/100078805149199/) I present subjects and problems that i stand For or Against.
 - On my [TikTok](https://www.tiktok.com/@husseindstudy) I present some quotas I Like and agree with.
 - On my [Pintrest](https://www.pinterest.fr/husseindajanistudy/_saved/) and [Instagram](https://www.instagram.com/husseindstudy/) i put some images of natures beautys
-- 📫On my Reddit I help and comment 
+- 📫On my [Reddit](https://www.reddit.com/user/HusseinDStudy/) I help and comment 
 - On my Slack guess what it's for work :funy:
 - On my Linkedin I hunt for Jobs
 - On my Spotify you find some songs i like
