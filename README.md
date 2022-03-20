@@ -29,17 +29,21 @@ You can click the Preview link to take a look at your changes.
 - On my Snaptchat stuff happen
 ## I am also an advocat for the [Fediverse](https://fediverse.party/) 
 ## Thus I also:
-- Publish my videos in a [PeerTube Instance](https://joinpeertube.org/instances#instances-list) called [Iriseden](https://peertube.iriseden.eu/) [HusseinDStudy](https://peertube.iriseden.eu/c/husseindstudy/videos)
-- Publish photos of nature in Pixelfed
-- Can be Contacted in Pleroma.Social, Friendi.Ca, Gnusocial.Rocks, Mastodon, Diasporafoundation
-- Can also be found on misskey
-- Can also find my music lists on funkwhale
-- Can also find my Projects on hubzilla soon
+- Publish my videos in a [PeerTube Instance](https://joinpeertube.org/instances#instances-list) called [Iriseden](https://peertube.iriseden.eu/): [HusseinDStudy](https://peertube.iriseden.eu/c/husseindstudy/videos)
+- Publish photos of nature in [Pixelfed](https://pixelfed.org/) and more specifically the default Instant called [Pixelfed Social](https://pixelfed.social/): [HusseinDStudy](https://pixelfed.social/HusseinDStudy)
+- Can be Contacted in:
+  -  [Friendi.Ca Server](https://friendi.ca/) [libranet](https://libranet.de/): [HusseinDStudy](https://libranet.de/profile/husseindstudy/)
+  -  [Mastodon Instance](https://joinmastodon.org/) [Fosstodon](https://fosstodon.org/): [NotValideYet](#)
+  -  [Diasporafoundation Instance](https://diasporafoundation.org/) [Diaspora Psyco Fr](https://diaspora.psyco.fr/): [HusseinDStudy](https://diaspora.psyco.fr/people/68f631c08aa7013ad92b001e67d879df)
 # ---- WHAT I USE ----
 ## Tools I Like and Use regulary
 - For Apps Installation I use [Flathub](https://flathub.org/home) and avoid using Snapcraft sinc it creates a temporary device each time you launch an app
 - I love Rss  Feeds: And prefer to use [Fluent_Reader](https://hyliu.me/fluent-reader/) for my feeds :smile:
 - For python packages I use [Pip](https://pypi.org/) mostly and sometime other tools if Needed
-
-- I also love [The SecureDrop Project](https://securedrop.org/) in [Qubes Is](https://www.qubes-os.org)
-- I use [Nextcloud](https://nextcloud.com) Servers for clouding
+- I also love [The SecureDrop Project](https://securedrop.org/) in [Qubes Os](https://www.qubes-os.org)
+- I use [Nextcloud](https://nextcloud.com) Servers for clouding 
+## Interestings Projects that i don't use but may if they evolve more ; )
+-  [Pleroma.Social](https://pleroma.social/)  [an interesting decentralised socialmedia that i do Not Yet Use Because there are no Instances that Interest me but the Project is Interesting](#)
+- I also recommend using [misskey](https://join.misskey.page/en-US/) if you want to learn japanese
+- I also recommend using [funkwhale](https://funkwhale.audio/) if you are a music publisher however not alone sinc it's not yet good enought
+- You can also look into [hubzilla](https://hubzilla.org/) an interesting projec
