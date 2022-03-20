@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 - On my [YouTube](https://www.youtube.com/channel/UCfjrY5VplNi28qwJ21CrN-Q)/[Odysee](https://odysee.com/@husseindstudy) channels I am creating content to present some of my projects for people who are interested by new ideas
 - On my [Twitter](https://twitter.com/HusseinDStudy) I look for moments, social events and individuals news that are worth it.
 - On my [Facebook](https://www.facebook.com/profile.php?id=100078805149199) I present subjects and problems that i stand For or Against.
-- On my TikTok I present some quotas I Like and agree with.
+- On my [TikTok](https://www.tiktok.com/@husseindstudy) I present some quotas I Like and agree with.
 - On my Pintrest and Instagram i put some images of natures beautys
 - 📫On my Reddit I help and comment 
 - On my Slack guess what it's for work :funy:
