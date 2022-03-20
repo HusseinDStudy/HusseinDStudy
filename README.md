@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 - Publish photos of nature in [Pixelfed](https://pixelfed.org/) and more specifically the default Instant called [Pixelfed Social](https://pixelfed.social/): [HusseinDStudy](https://pixelfed.social/HusseinDStudy)
 - Can be Contacted in:
   -  [Friendi.Ca Server](https://friendi.ca/) [libranet](https://libranet.de/): [HusseinDStudy](https://libranet.de/profile/husseindstudy/)
-  -  [Mastodon Instance](https://joinmastodon.org/) [Fosstodon](https://fosstodon.org/): [NotValideYet](#)
+  -  [Mastodon Instance](https://joinmastodon.org/) [Fosstodon](https://fosstodon.org/): [HusseinDStudy](https://fosstodon.org/web/@HusseinDStudy)
   -  [Diasporafoundation Instance](https://diasporafoundation.org/) [Diaspora Psyco Fr](https://diaspora.psyco.fr/): [HusseinDStudy](https://diaspora.psyco.fr/people/68f631c08aa7013ad92b001e67d879df)
 # ---- WHAT I USE ----
 ## Tools I Like and Use regulary
