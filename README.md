@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 - I also love [The SecureDrop Project](https://securedrop.org/) in [Qubes Os](https://www.qubes-os.org)
 - I use [Nextcloud](https://nextcloud.com) Servers for clouding 
 ## Interestings Projects that i don't use but may if they evolve more ; )
--  [Pleroma.Social](https://pleroma.social/)  [an interesting decentralised socialmedia that i do Not Yet Use Because there are no Instances that Interest me but the Project is Interesting](#)
+-  [Pleroma.Social](https://pleroma.social/) an interesting decentralised socialmedia that i do Not Yet Use Because there are no Instances that Interest me but the Project is Interesting
 - I also recommend using [misskey](https://join.misskey.page/en-US/) if you want to learn japanese
 - I also recommend using [funkwhale](https://funkwhale.audio/) if you are a music publisher however not alone sinc it's not yet good enought
 - You can also look into [hubzilla](https://hubzilla.org/) an interesting projec
