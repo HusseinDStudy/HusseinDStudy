@@ -16,10 +16,10 @@ You can click the Preview link to take a look at your changes.
 
 # ---- WHAT I DO ----
 ## I do many activitys: :smile:
-- On [My Github :wink:](https://github.com/HusseinDStudy) & [My GitLab ](https://gitlab.com/HusseinDStudy) I publish all my programming projects 
-- On my [YouTube](https://www.youtube.com/channel/UCO4Xq1--MrkRjvmMs1MBCEA)/[Odysee](https://odysee.com/@husseindstudy) channels I am creating content to present some of my projects for people who are interested by new ideas
+- I publish all my programming projects on [My Github :wink:](https://github.com/HusseinDStudy) & some times on [My GitLab ](https://gitlab.com/HusseinDStudy)  
+- On my [YouTube](https://www.youtube.com/channel/UCfjrY5VplNi28qwJ21CrN-Q)/[Odysee](https://odysee.com/@husseindstudy) channels I am creating content to present some of my projects for people who are interested by new ideas
 - On my [Twitter](https://twitter.com/HusseinDStudy) I look for moments, social events and individuals news that are worth it.
-- On my Facebook I present subjects and problems that i stand For or Against.
+- On my [Facebook](https://www.facebook.com/profile.php?id=100078805149199) I present subjects and problems that i stand For or Against.
 - On my TikTok I present some quotas I Like and agree with.
 - On my Pintrest and Instagram i put some images of natures beautys
 - 📫On my Reddit I help and comment 
