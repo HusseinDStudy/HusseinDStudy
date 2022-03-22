@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on Nothing yet only want to learn
 - A Web Developper and Student in BTS SIO SLAM on 🇫🇷
 - I am passionate about learining new ways to use Python and New languages in the world of Tech and i love finding new ways to be more efficient as a Programmer.
-- [My WebSite In :fr:](https://husseindajani.com/)    Which for now is used for my tests and would be rebuild in the future
+- [My WebSite In :fr: ](https://husseindajani.com/)    Which for now is used for my tests and would be rebuild in the future
 
 # ---- WHAT I DO ----
 ## I do many activitys: 😄
