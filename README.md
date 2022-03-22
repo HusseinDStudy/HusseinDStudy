@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 - On my [TikTok](https://www.tiktok.com/@husseindstudy) I present some quotas I Like and agree with.
 - On my [Pintrest](https://www.pinterest.fr/husseinDStudy/) and [Instagram](https://www.instagram.com/husseindstudy/) i put some images of natures beautys
 - 📫On my [Reddit](https://www.reddit.com/user/HusseinDStudy/) I help and comment 
-- On my [Slack](#) guess what it's for work :funy:
+- On my [Slack](#) guess what it's for work 😂
 - On my [Linkedin](https://www.linkedin.com/in/hussein-dajani-3172aa197/) I hunt for Jobs
 - On my [Spotify](https://open.spotify.com/user/31vgx6zi236kqw5yo76t56a3acza) you find some songs i like
 - On my Snaptchat stuff happen
