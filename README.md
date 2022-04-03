@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
 # ---- WHAT I USE ----
 ## Tools I Like and Use regulary
 - For Apps Installation I use [Flathub](https://flathub.org/home) and avoid using Snapcraft sinc it creates a temporary device each time you launch an app
+- i love app images in linux[one file one app] as much as flatpak apps hub
 - I love Rss  Feeds: And prefer to use [Fluent_Reader](https://hyliu.me/fluent-reader/) for my feeds 😄
 - For python packages I use [Pip](https://pypi.org/) mostly and sometime other tools if Needed
 - I also love [The SecureDrop Project](https://securedrop.org/) in [Qubes Os](https://www.qubes-os.org)
