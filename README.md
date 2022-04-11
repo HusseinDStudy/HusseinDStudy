@@ -48,3 +48,7 @@ You can click the Preview link to take a look at your changes.
 - I also recommend using [misskey](https://join.misskey.page/en-US/) if you want to learn japanese
 - I also recommend using [funkwhale](https://funkwhale.audio/) if you are a music publisher however not alone sinc it's not yet good enought
 - You can also look into [hubzilla](https://hubzilla.org/) an interesting projec
+# Github Projects deployements:
+- [Premier-Site](https://husseindstudy.github.io/Premier-Site/)
+- [Site_Monstres_Bootstap4](https://husseindstudy.github.io/Site_Monstres_Bootstap4/)
+- [Memory-Game](https://husseindstudy.github.io/Memory-Game/)
