@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 - [My WebSite In :fr: ](https://husseindajani.com/)    Which for now is used for my tests and would be rebuild in the future
 
 # ---- WHAT I DO ----
-## I do many activitys: 😄
+## I do many activities: 😄
 - I publish all my programming projects on [My Github 😉](https://github.com/HusseinDStudy) & some times on [My GitLab ](https://gitlab.com/HusseinDStudy)  
 - On my [YouTube](https://www.youtube.com/channel/UCfjrY5VplNi28qwJ21CrN-Q)/[Odysee](https://odysee.com/@husseindstudy) channels I am creating content to present some of my projects for people who are interested by new ideas
 - On my [Twitter](https://twitter.com/HusseinDStudy) I look for moments, social events and individuals news that are worth it.
