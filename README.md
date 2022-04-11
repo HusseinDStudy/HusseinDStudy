@@ -52,3 +52,5 @@ You can click the Preview link to take a look at your changes.
 - [Premier-Site](https://husseindstudy.github.io/Premier-Site/)
 - [Site_Monstres_Bootstap4](https://husseindstudy.github.io/Site_Monstres_Bootstap4/)
 - [Memory-Game](https://husseindstudy.github.io/Memory-Game/)
+- [SiteMMV---Hussein](http://husseindajani.epizy.com/0.E4/PurePHP/SiteMMV---Hussein-master/Index.php)
+- [Projet-Mangas-Hussein-DAJANI-PHP](http://husseindajani.epizy.com/0.E4/PurePHP/Projet-Mangas-Hussein-DAJANI-PHP-master/)
