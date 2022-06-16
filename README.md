@@ -5,11 +5,18 @@
 <h1 align="center">Hi 👋, I'm Hussein </h1>
 <h3 align="center">A passionate Web Developer and Student on 🇫🇷</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=husseindstudy&label=Profile%20views&color=0e75b6&style=flat" alt="husseindstudy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husseindstudy" alt="husseindstudy" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/husseindstudy" target="blank"><img src="https://img.shields.io/twitter/follow/husseindstudy?logo=twitter&style=for-the-badge" alt="husseindstudy" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=husseindstudy" alt="husseindstudy" />
+  </a><br>
+  <img src="https://komarev.com/ghpvc/?username=husseindstudy&label=Profile%20views&color=0e75b6&style=flat" alt="husseindstudy" />
+  <a href="https://twitter.com/husseindstudy" target="blank">
+    <img src="https://img.shields.io/twitter/follow/husseindstudy?logo=twitter&style=for-the-badge" alt="husseindstudy" />
+  </a>
+  <a href="https://www.youtube.com/c/UCfjrY5VplNi28qwJ21CrN-Q" target="blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCfjrY5VplNi28qwJ21CrN-Q?logo=youtube&style=social" alt="husseindstudy" />
+  </a>
+</p>
 
 - 👀 I’m interested and passionate about learning new ways to use Python and New languages in the world of Tech and I love finding new ways to be more efficient as a Programmer.
 
@@ -39,7 +46,7 @@
     {To speak of subjects and problems that I stand For Or Against.}</th>
   </tr>
   <tr>
-    <td>
+    <td><p>
       <a href="https://codepen.io/husseindstudy" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="husseindstudy" height="30" width="40" />
       </a>
@@ -55,8 +62,8 @@
       <a href="https://gitlab.com/HusseinDStudy" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="husseindstudy" height="30" width="40" />
       </a>
-    </td>
-    <td>
+    </p></td>
+    <td><p>
       <a href="https://www.youtube.com/c/UCfjrY5VplNi28qwJ21CrN-Q" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="husseindstudy" height="30" width="40" />
       </a>
@@ -69,26 +76,26 @@
       <a href="https://peertube.iriseden.eu/c/husseindstudy/videos" target="blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo_PeerTube_long_accented.svg" alt="husseindstudy" height="40" width="60" />
       </a>
-    </td>
-    <td>
+    </p></td>
+    <td><p>
       <a href="https://linkedin.com/in/husseindstudy" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="husseindstudy" height="30" width="40" />
       </a>
-    </td>
-    <td>
+    </p></td>
+    <td><p>
       <a href="https://instagram.com/husseindstudy" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="husseindstudy" height="30" width="40" />
       </a>
-    </td>
-    <td>
+    </p></td>
+    <td><p>
       <a href="https://www.pinterest.fr/husseinDStudy" target="blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Pinterest_Logo.svg" alt="husseindstudy" height="40" width="60" />
       </a>
       <a href="https://pixelfed.social/HusseinDStudy" target="blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Pixelfed_logo.svg" alt="husseindstudy" height="30" width="40" />
       </a>
-    </td>
-    <td>
+    </p></td>
+    <td><p>
       <a href="https://www.reddit.com/user/HusseinDStudy" target="blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/en/5/58/Reddit_logo_new.svg" alt="husseindstudy" height="40" width="60" />
       </a>
@@ -101,8 +108,8 @@
       <a href="https://diaspora.psyco.fr/people/68f631c08aa7013ad92b001e67d879df" target="blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Diaspora_social_network_project_official_logo%2C_helvetica_font.png" alt="husseindstudy" height="40" width="60" />
       </a>
-    </td>
-    <td>
+    </p></td>
+    <td><p>
       <a href="https://twitter.com/husseindstudy" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="husseindstudy" height="30" width="40" />
       </a>
@@ -118,7 +125,7 @@
       <a href="#" target="blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/en/c/c4/Snapchat_logo.svg" alt="husseindstudy" height="30" width="40" />
       </a>
-    </td>
+    </p></td>
   </tr>
 
 </table>
@@ -236,34 +243,50 @@
   </tr>
 </table>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=husseindstudy&show_icons=true&layout=compact" alt="husseindstudy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=husseindstudy&show_icons=true" alt="husseindstudy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=husseindstudy&show_icons=true" alt="husseindstudy" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=husseindstudy" alt="husseindstudy" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=husseindstudy&" alt="husseindstudy" /></p>
 
-#  WHAT I DO
-## I am also an advocate for the [Fediverse](https://fediverse.party/)😄
-## Thus I also:
-- Publish my videos in a [PeerTube Instance](https://joinpeertube.org/instances#instances-list) called [Iriseden](https://peertube.iriseden.eu/):
-- Publish photos of nature in [Pixelfed](https://pixelfed.org/) and more specifically the default Instant called [Pixelfed Social](https://pixelfed.social/)
-- Can be Contacted in:
-  -  [Friendi.Ca Server](https://friendi.ca/) [libranet](https://libranet.de/)
-  -  [Mastodon Instance](https://joinmastodon.org/) [Fosstodon](https://fosstodon.org/)
-  -  [Diasporafoundation Instance](https://diasporafoundation.org/) [Diaspora Psyco Fr](https://diaspora.psyco.fr/)
-#  WHAT I USE
-## Tools I Like and Use regularly
-- For Apps Installation I use [Flathub](https://flathub.org/home) and avoid using Snapcraft since it creates a temporary device each time you launch an app
-- I love app images in Linux[one file one app] as much as flatpak apps hub
-- I love Rss  Feeds: And prefer to use [Fluent_Reader](https://hyliu.me/fluent-reader/) for my feeds 😄
-- For python packages I use [Pip](https://pypi.org/) mostly and sometime other tools if Needed
-- I also love [The SecureDrop Project](https://securedrop.org/) in [Qubes Os](https://www.qubes-os.org)
-- I use [Nextcloud](https://nextcloud.com) Servers for clouding
-## Interesting Projects that I don't use but may if they evolve more ; )
--  [Pleroma.Social](https://pleroma.social/) an interesting decentralised social media that I do Not Yet Use Because there are no Instances that Interest me but the Project is Interesting
-- I also recommend using [misskey](https://join.misskey.page/en-US/) if you want to learn Japanese
-- I also recommend using [funkwhale](https://funkwhale.audio/) if you are a music publisher however not alone since it's not yet good enough
-- You can also look into [hubzilla](https://hubzilla.org/) an interesting project
-# GitHub Projects deployments:
-- []()
-- []()
+
+</details>
+<details>
+  <summary><h1 id="what-i-use">WHAT I USE</h1></summary>
+    <h2 id="i-am--an-advocate-for-the-fediverse😄">I am  an advocate for the <a href="https://fediverse.party/">Fediverse</a>😄</h2>
+    <h2 id="thus-i-also">Thus I also:</h2>
+    <ul>
+      <li>Publish my videos in a <a href="https://joinpeertube.org/instances#instances-list">PeerTube Instance</a> called <a href="https://peertube.iriseden.eu/">Iriseden</a>:</li>
+      <li>Publish photos of nature in <a href="https://pixelfed.org/">Pixelfed</a> and more specifically the default Instant called <a href="https://pixelfed.social/">Pixelfed Social</a></li>
+      <li>Can be Contacted in:
+        <ul>
+          <li><a href="https://friendi.ca/">Friendi.Ca Server</a> <a href="https://libranet.de/">libranet</a></li>
+          <li><a href="https://joinmastodon.org/">Mastodon Instance</a> <a href="https://fosstodon.org/">Fosstodon</a></li>
+          <li><a href="https://diasporafoundation.org/">Diasporafoundation Instance</a> <a href="https://diaspora.psyco.fr/">Diaspora Psyco Fr</a></li>
+        </ul>
+      </li>
+    </ul>
+    <h2 id="tools-i-like-and-use-regularly">Tools I Like and Use regularly</h2>
+    <ul>
+      <li>For Apps Installation I use <a href="https://flathub.org/home">Flathub</a> and avoid using Snapcraft since it creates a temporary device each time you launch an app</li>
+      <li>I love app images in Linux[one file one app] as much as flatpak apps hub</li>
+      <li>I love Rss  Feeds: And prefer to use <a href="https://hyliu.me/fluent-reader/">Fluent_Reader</a> for my feeds 😄</li>
+      <li>For python packages I use <a href="https://pypi.org/">Pip</a> mostly and sometime other tools if Needed</li>
+      <li>I also love <a href="https://securedrop.org/">The SecureDrop Project</a> in <a href="https://www.qubes-os.org">Qubes Os</a></li>
+      <li>I use <a href="https://nextcloud.com">Nextcloud</a> Servers for clouding</li>
+      <li></li>
+    </ul>
+    <h2 id="interesting-projects-that-i-dont-use-but-may-if-they-evolve-more--">Interesting Projects that I don&#39;t use but may if they evolve more ; )</h2>
+    <ul>
+      <li><a href="https://pleroma.social/">Pleroma.Social</a> an interesting decentralised social media that I do Not Yet Use Because there are no Instances that Interest me but the Project is Interesting</li>
+      <li>I also recommend using <a href="https://join.misskey.page/en-US/">misskey</a> if you want to learn Japanese</li>
+      <li>I also recommend using <a href="https://funkwhale.audio/">funkwhale</a> if you are a music publisher however not alone since it&#39;s not yet good enough</li>
+      <li>You can also look into <a href="https://hubzilla.org/">hubzilla</a> an interesting project</li>
+      <li></li>
+    </ul>
+    </details>
+    <details>
+      <summary><h1 id="github-projects-deployments">GitHub Projects deployments:</h1></summary>
+    <ul>
+      <li><a href=""></a></li>
+      <li><a href=""></a></li>
+    </ul>
+</details>
