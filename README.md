@@ -95,9 +95,6 @@
       <a href="https://www.reddit.com/user/HusseinDStudy" target="blank">
         <img align="center" src="https://www.redditinc.com/assets/images/site/logo.svg" alt="husseindstudy" height="40" width="60" />
       </a>
-      <a href="https://libranet.de/profile/husseindstudy" target="blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Friendica_Logo.png" alt="husseindstudy" height="30" width="40" />
-      </a>
       <a href="https://fosstodon.org/web/@HusseinDStudy" target="blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="husseindstudy" height="30" width="40" />
       </a>
